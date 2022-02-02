@@ -1,0 +1,62 @@
+<head>
+<title>Электрические *****варки</title>
+<nav>
+<div>
+<a href="111">О компании</a>
+<a href="222">Товары</a>
+<a href="333">Наш адрес</a>
+<a href="444">Как приобрести</a>
+<a href="555">Войти</a>
+</div>
+</nav>
+</head>
+<br>
+<main>
+<a name="111" ><h1 align="center">О Компании</h1></a>
+<img class="ggg" src="https://www.theladders.com/wp-content/uploads/monkey-working-022319.jpg" >
+<p>Электрические *****варки лучший способ удовлетворения себя и своей семьи. Данная вещь поможет от остеохондроза, артрита, артроза и других не менее сложных болезней. Наша история начинается с 560 года до нашей эры и до сих пор служит настоящему славянскому истинному народу гуманойдов.</p>
+<a name="222"><h1 align="center">Товары</h1></a>
+<p>1.Электрическая *****варка</p>
+<p>2.Чурка</p>
+<p>3.Горыныч</p>
+<p>4.Пиво Вобла</p>
+<a name="333"><h1 align="center">Как приобрести</h1></a>
+<img class="yyy" src="https://cdn4.mygazeta.com/i/2016/11/iStock_000020875510Medium-1024x895.jpg">
+<p> Приобрести можно в наших магазинах по адресу,указанный ниже или по телефону</p>
+<a name="444"><h1 align="center">Наш адрес</h1></a>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1626.2190990699216!2d39.92760222798954!3d43.42733000173299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f5bfd966a1658f%3A0x55b94100f71b53bf!2z0JzQsNCz0LDQt9C40L0g0JrRgNCw0YTRgtC-0LLQvtCz0L4g0L_QuNCy0LAg0JLQvtCx0LvQsA!5e0!3m2!1sru!2sru!4v1643798868865!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<footer>
+  <a name="adress"> <h1> Товары </h1> </a>
+  <br>
+  <table class="foter">
+      <tr> <td> <br>
+          <b> Контакты </b>
+        </td> </tr>
+        
+        <tr> <td> <br>
+          Адрес: Это Адлер,дядь, наводим суету.
+                 Я на черной Camry, по дороге мчу
+                 
+        </td> </tr>
+        
+        <tr> <td>
+          Тел. 8-911-148-86-93 <p> <br> </p>
+        </td> </tr>
+    </table>
+    <a href="instagram.com"> <img src="https://mars.algoritmika.org/uploads/2021/02/instagram-3288419_1280%201_0_1613586391.png"> </a>
+    <a href="vk.com"> <img src="https://mars.algoritmika.org/uploads/2021/02/Group%201_0_1613586391.png"> </a>
+    <a href="facebook.com"> <img src="https://mars.algoritmika.org/uploads/2021/02/icon-set-1142000_1280%201_0_1613586391.png"> </a>
+</footer>
+
+
+
+<style>
+div{display:flex;
+justify-content:space-around;}
+nav{background:black;width:100%;height:70px}
+nav a{color:white;text-decoration:none;padding:10px;margin:0px 40px 0px 60px;}
+.ggg{width:100%}
+.yyy{width:50%}
+</style>
